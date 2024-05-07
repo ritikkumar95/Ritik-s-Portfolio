@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi visitor, I'm Ritik",
   description:
     "I'm a passionate computer programmer with experience in developing Full Stack web applications using Node.js, Express.js, React.js, and MongoDB. I am proficient in technologies such as Java, C++, R, SQL, JavaScript, Python, and more. I have a strong interest in learning new technologies and implementing them in my projects. As a self-motivated and hardworking individual, I am always ready to learn and collaborate within a team.",
-  resumeLink: "https://docs.google.com/document/d/1441EKcqAmI1vt5LA0nPg9I7Ua8KhX1Eq/edit#heading=h.gjdgxs",
+  resumeLink: "https://docs.google.com/document/d/1cZnsGD7JtKgKIp7GaJ4AH1gcLqeLiJUUhBfb4njK5nY/edit",
 };
 
 export const openSource = {
