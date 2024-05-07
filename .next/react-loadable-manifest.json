@@ -17,18 +17,6 @@
       "static/chunks/containers_Education_tsx.js"
     ]
   },
-  "index.tsx -> ../containers/Experience": {
-    "id": "index.tsx -> ../containers/Experience",
-    "files": [
-      "static/chunks/containers_Experience_tsx.js"
-    ]
-  },
-  "index.tsx -> ../containers/Feedbacks": {
-    "id": "index.tsx -> ../containers/Feedbacks",
-    "files": [
-      "static/chunks/containers_Feedbacks_tsx.js"
-    ]
-  },
   "index.tsx -> ../containers/Greetings": {
     "id": "index.tsx -> ../containers/Greetings",
     "files": [
