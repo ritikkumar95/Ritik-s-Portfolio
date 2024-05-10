@@ -141,12 +141,7 @@ export const projects: ProjectType[] = [
     github: "https://github.com/ritikkumar95/Gemini-Clone",
     link: "https://gemini-by-ritik.netlify.app/",
   },
-  {
-    name: "My-portfolio",
-    desc: "Software Developer Portfolio Template built with react.js and  bootstrap that showcase my work and skills as a software developer.",
-    github: "https://github.com/1hanzla100/developer-portfolio",
-    link: "#",
-  },
+
   
 ];
 
