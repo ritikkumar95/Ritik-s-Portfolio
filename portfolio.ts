@@ -138,8 +138,8 @@ export const projects: ProjectType[] = [
   {
     name: "Food-Delivery App",
     desc: "Developed a food delivery application using MERN stack, focusing on seamless user experience. Implemented features such as real-time tracking, order customization, and secure payment processing. Managed the entire project lifecycle from design to deployment, demonstrating strong problem-solving skills and attention to detail.",
-    github: "https://github.com/ritikkumar95/Gemini-Clone",
-    link: "https://gemini-by-ritik.netlify.app/",
+    github: "#",
+    link: "#",
   },
 
   
